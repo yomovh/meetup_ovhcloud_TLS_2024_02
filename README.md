@@ -1,4 +1,4 @@
-# Notes for the demo that illustrates the talk "How to industrialise the deployment of your solutions with OVHcloud ?"
+# Notes for the demo that illustrates the talk "How to industrialize the deployment of your solutions with OVHcloud ?" given at OVHCloud Toulouse Meetup
 
 ## OVHcloud control panel interface
 
@@ -6,7 +6,7 @@ Copy public key
 ```bash
 cat ~/.ssh/id_rsa.pub |pbcopy	
 ```
-Add [cloud-init script](./cloud-init.yaml)
+Add [cloud-init script](cloud-init.yaml)
 
 
 ## API portal 
